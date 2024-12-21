@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eng Islam Metwally\\OneDrive\\Desktop\\c#\\C43-G03-OOP01\\dimo_6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB0B5747-9597-4BB7-AA3D-F0BD944ADEF2}|Dimo_6.csproj|c:\\users\\eng islam metwally\\onedrive\\desktop\\c#\\c43-g03-oop01\\dimo_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB0B5747-9597-4BB7-AA3D-F0BD944ADEF2}|Dimo_6.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB0B5747-9597-4BB7-AA3D-F0BD944ADEF2}|Dimo_6.csproj|c:\\users\\eng islam metwally\\onedrive\\desktop\\c#\\c43-g03-oop01\\dimo_6\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB0B5747-9597-4BB7-AA3D-F0BD944ADEF2}|Dimo_6.csproj|solutionrelative:point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB0B5747-9597-4BB7-AA3D-F0BD944ADEF2}|Dimo_6.csproj|c:\\users\\eng islam metwally\\onedrive\\desktop\\c#\\c43-g03-oop01\\dimo_6\\dimo_6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FB0B5747-9597-4BB7-AA3D-F0BD944ADEF2}|Dimo_6.csproj|solutionrelative:dimo_6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dimo_6.csproj",
+              "DocumentMoniker": "C:\\Users\\Eng Islam Metwally\\OneDrive\\Desktop\\c#\\C43-G03-OOP01\\Dimo_6\\Dimo_6.csproj",
+              "RelativeDocumentMoniker": "Dimo_6.csproj",
+              "ToolTip": "C:\\Users\\Eng Islam Metwally\\OneDrive\\Desktop\\c#\\C43-G03-OOP01\\Dimo_6\\Dimo_6.csproj",
+              "RelativeToolTip": "Dimo_6.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-21T16:18:20.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "point.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Islam Metwally\\OneDrive\\Desktop\\c#\\C43-G03-OOP01\\dimo_6\\point.cs",
+              "RelativeDocumentMoniker": "point.cs",
+              "ToolTip": "C:\\Users\\Eng Islam Metwally\\OneDrive\\Desktop\\c#\\C43-G03-OOP01\\dimo_6\\point.cs",
+              "RelativeToolTip": "point.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAEcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T15:47:38.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Islam Metwally\\OneDrive\\Desktop\\c#\\C43-G03-OOP01\\dimo_6\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Eng Islam Metwally\\OneDrive\\Desktop\\c#\\C43-G03-OOP01\\dimo_6\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T23:21:08.098Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

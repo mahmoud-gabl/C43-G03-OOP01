@@ -1,0 +1,11 @@
+C:\Users\Eng Islam Metwally\OneDrive\Desktop\c#\C43-G03-OOP01\commet\bin\Debug\net8.0\commet.deps.json
+C:\Users\Eng Islam Metwally\OneDrive\Desktop\c#\C43-G03-OOP01\commet\bin\Debug\net8.0\commet.dll
+C:\Users\Eng Islam Metwally\OneDrive\Desktop\c#\C43-G03-OOP01\commet\bin\Debug\net8.0\commet.pdb
+C:\Users\Eng Islam Metwally\OneDrive\Desktop\c#\C43-G03-OOP01\commet\obj\Debug\net8.0\commet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eng Islam Metwally\OneDrive\Desktop\c#\C43-G03-OOP01\commet\obj\Debug\net8.0\commet.AssemblyInfoInputs.cache
+C:\Users\Eng Islam Metwally\OneDrive\Desktop\c#\C43-G03-OOP01\commet\obj\Debug\net8.0\commet.AssemblyInfo.cs
+C:\Users\Eng Islam Metwally\OneDrive\Desktop\c#\C43-G03-OOP01\commet\obj\Debug\net8.0\commet.csproj.CoreCompileInputs.cache
+C:\Users\Eng Islam Metwally\OneDrive\Desktop\c#\C43-G03-OOP01\commet\obj\Debug\net8.0\commet.dll
+C:\Users\Eng Islam Metwally\OneDrive\Desktop\c#\C43-G03-OOP01\commet\obj\Debug\net8.0\refint\commet.dll
+C:\Users\Eng Islam Metwally\OneDrive\Desktop\c#\C43-G03-OOP01\commet\obj\Debug\net8.0\commet.pdb
+C:\Users\Eng Islam Metwally\OneDrive\Desktop\c#\C43-G03-OOP01\commet\obj\Debug\net8.0\ref\commet.dll

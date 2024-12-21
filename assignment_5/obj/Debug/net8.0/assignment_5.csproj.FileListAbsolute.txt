@@ -1,0 +1,14 @@
+C:\Users\Eng Islam Metwally\OneDrive\Desktop\c#\C43-G03-OOP01\assignment_5\bin\Debug\net8.0\assignment_5.exe
+C:\Users\Eng Islam Metwally\OneDrive\Desktop\c#\C43-G03-OOP01\assignment_5\bin\Debug\net8.0\assignment_5.deps.json
+C:\Users\Eng Islam Metwally\OneDrive\Desktop\c#\C43-G03-OOP01\assignment_5\bin\Debug\net8.0\assignment_5.runtimeconfig.json
+C:\Users\Eng Islam Metwally\OneDrive\Desktop\c#\C43-G03-OOP01\assignment_5\bin\Debug\net8.0\assignment_5.dll
+C:\Users\Eng Islam Metwally\OneDrive\Desktop\c#\C43-G03-OOP01\assignment_5\bin\Debug\net8.0\assignment_5.pdb
+C:\Users\Eng Islam Metwally\OneDrive\Desktop\c#\C43-G03-OOP01\assignment_5\obj\Debug\net8.0\assignment_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eng Islam Metwally\OneDrive\Desktop\c#\C43-G03-OOP01\assignment_5\obj\Debug\net8.0\assignment_5.AssemblyInfoInputs.cache
+C:\Users\Eng Islam Metwally\OneDrive\Desktop\c#\C43-G03-OOP01\assignment_5\obj\Debug\net8.0\assignment_5.AssemblyInfo.cs
+C:\Users\Eng Islam Metwally\OneDrive\Desktop\c#\C43-G03-OOP01\assignment_5\obj\Debug\net8.0\assignment_5.csproj.CoreCompileInputs.cache
+C:\Users\Eng Islam Metwally\OneDrive\Desktop\c#\C43-G03-OOP01\assignment_5\obj\Debug\net8.0\assignment_5.dll
+C:\Users\Eng Islam Metwally\OneDrive\Desktop\c#\C43-G03-OOP01\assignment_5\obj\Debug\net8.0\refint\assignment_5.dll
+C:\Users\Eng Islam Metwally\OneDrive\Desktop\c#\C43-G03-OOP01\assignment_5\obj\Debug\net8.0\assignment_5.pdb
+C:\Users\Eng Islam Metwally\OneDrive\Desktop\c#\C43-G03-OOP01\assignment_5\obj\Debug\net8.0\assignment_5.genruntimeconfig.cache
+C:\Users\Eng Islam Metwally\OneDrive\Desktop\c#\C43-G03-OOP01\assignment_5\obj\Debug\net8.0\ref\assignment_5.dll
